@@ -1,0 +1,139 @@
+* part1 STOCK SPECULATIONS
+** player's type
+1. investors, seeking income
+        Institutions, Bank investment affiliates, investment trust
+2. Business-men supeculators, brokerage-office traders, amateur traders
+3. Professional operators, floor-traders, pools, investment bankers, intelligent speculators
+   
+
+* part2 TAPE READING
+** The Ticker Tape
+   
+** The Priciples of Tape Reading
+   
+** Increasing Volume During an Advance
+** Turning-Points on Heavy Volume
+** Turning-Points on Light Volume(p60)
+*** the strugging market(p60)
+    買い手はいない。わずかな売り手がいて、需要の少なさに気づく。結果は
+    二通り。
+    1. 急落へ。大口の指値が下を叩き始める。
+    2. 大口売買が出るまで、へろへろが続く。大口の行動を待つ。
+    2が続いて、１となる。
+*** sluggish top(p62)
+    上記の例。
+    高値圏で出来高が減少。高値を更新できない。
+    レンジを出来高を伴って下落。天井となった。
+** Various Types of Top-Action(p66)
+***   A sharply defined top
+***   A broad top
+*** tops more difficult to distinguish than bottoms(p66)
+   買いはゆっくりなので、パニックにならない。何日にも掛けてトップを形成する。
+   高値更新に苦労してる。。。
+   でも、出来高でサインが出る。トップ(事後的にしか分からない？)、もしはその後、出来高が増加しながら下がる。
+*** A sharply defined top(p68)
+    3日わたって高値更新したあと、方向転換。その間、出来高が多い。
+*** A broad top(70)
+    判断は難しい。はっきりした見分けがつかない。
+    今回の場合は、下落が始まる２週間前に出来高ができてる。
+    薄商いで上昇する日があって、その後株のdistributionが行われる。売り手がうまい。
+*** american can's july, 1930, Top
+    トップになった４日間の動き。
+    
+** The Tape Stroy of Loew's
+   
+** Steel, The Market Leader
+** TIps are Dangerous(p103)
+*** check your tips on the tape(p103)
+   無意識に信頼をしてる人を頼ってしまう。それはNo。
+   取り入れるにしてもTapeで確認することが必要。
+   買ってるという情報。下がる。売りが強すぎて買いをやめたと。
+*** The Action of Electric Power and Light
+    
+   
+** Some important Observations on Volume
+** The Effect of News on Market-Action
+** Resistances
+** Suggestions to Speculators(142)
+*** be a cynic when reading the tape
+    他の人間より賢く行動するゲーム
+    大衆と逆を行くゲーム。万年強気、弱気はトレーダーではない。
+    オペレータは資産を稼働させないといけないが、トレーダは付いて行けば良い、素早く。
+    需給をつかむ、相場の声を聴く。　大口の立場にたって考える。買いに傾いた時、大衆の意向と逆なのかを考える。
+*** use pad and pencils
+    ノート・ペンを使おう。
+    チャートから、先行きを予想してみよう。違ったら、立ち戻って考えなおそう。見逃した点はないか。
+*** trade alone
+
+
+    雑音を排除する。自分で決める。誰かをフォローしてる時は、その者に対して意見を挟むな。
+    自分の意見を他人に言うことは、自分をざわつかせる。人の意見を聞きながら、tape readingはできない。
+    相場が膠着しても、ゴシップに興じることがないよう。
+    ペン・ノートを使えば、集中できる。
+    他人を損させるという恐れ。赤字を増大させる。
+*** do not watch every stocks
+    ３つまで。５より上はありえない。頭に入れ、保つことは不可能。
+    サポート、レジスタンスを把握。
+*** the use of charts and statistics in conjunction with the tape
+    日次チャートでも良いが、テープ(取引記録)を観察・認識のために推奨。
+    テープとチャートをみて、その中にあるものを理解できれば、最高。
+    頭の中のイメージは、正確でない。
+    売買高は、買い手、売り手の心理を示してくれる。
+*** acting contraty to the public
+    小口の大多数という集団が必然的に外れを引くのが相場の構造(自分見解)
+    大衆が参加するのは、相場の転換点。特に上昇相場の最後。
+    大衆が参加してるのに、株価が上がらない。＝＞TOP
+*** trend trading(156)
+    長期強気、中間波、短期波と３つに分類する
+    保守的には、中間波のみでトレード。２〜６週の波動。
+    中間波は、考慮する時間的余裕がある。シグナルを確認してウリ。
+    一方的なブル相場では、１、２日の出来高を伴うはっきりとした上げで降りる。
+    トップとボトムは他の人のもの。
+    中間波動の取引とtape readingの整合を取る。tape readingの頻度を落とすが、重要な変化をつかむ。
+    いつでも、相場に復帰できる。
+*** capitalization and floating supply(159)
+    小型株の値動きの大きさ。大型株でも利益取れる。
+    ファンダメンタルがしっかりしてれば、pool operatorが買い方。
+*** patience is a market virtue
+    <<年間6-12回のトレードで、しっかりした利益がだせる。>>
+** The Rise and Fall of Steel During a Normal(162)
+   4ヶ月(1929/12/23~1930/4/15)のSTEEL株の動きをtape readingで解説
+   通常期のSTEELの動き。
+   A-Hに分けて解説
+   A:congestion, accumulation 2回出来高を伴って上昇。だが、抵抗帯にあたる。
+   その後、過去一ヶ月で最大の出来高を伴って、抵抗突破。手替り達成。
+   B:着実な上昇。その後出来高が３日間枯れた。その後は上昇再開か？出来高が増えて下落か？
+   C:高値更新。しかし出来高がない。トップになる。出来高を伴って下落。一週間で大きな下げに。
+   D:congestionになる。accumulationか？liquidationか？
+   E:出来高を伴い重要な、confirmなsteadyな上げ
+   F:上げ相場で出来、戻しで出来高減少。
+   G:出来高を伴ってあげた。。。が、その後なにもなし。。
+   その後同じように高値を取りに行くが、陰線をひくことになる。
+   H: 出来高が尽きるまで、下げる。最終的に売り切った段階で出来高は膨大。
+   その後、買い指値が現れ始める。
+** Bull Movement
+   
+   
+* Part3 MARKET PHILOSOPHY
+The biggest handicap of all in ourselves
+market philosophy
+the way to lose money in wall street
+(10 statements)
+** thoughts on human nature and speculation
+** market poise
+** reflected news
+** the market as its own best advertiser
+** the time element
+** how to think, market wise
+** pride of opinion
+** more thought on human nature and speculation
+ *** greed
+*** do not believe anything you read
+*** the public is always fooled
+*** never answer a margin-call
+*** the danger of too much nerve
+*** averaging of satisfy pride pf opinion(p217)
+    ナンピン。自分の買い値段を下げたいがため。
+    自分の判断と、その後の値段が一致しない => 何か間違ってる。
+** are charts of any value in forecasting the movements of stock prices
+** from my notebook   
